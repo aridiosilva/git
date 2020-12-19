@@ -1,0 +1,17 @@
+# Git -  Git Help - All Commands
+
+## Setting up a repository  
+
+This tutorial provides an overview of how to set up a repository (repo) under Git version control. This resource will walk you through initializing a Git repository for a new or existing project. Included below are workflow examples of repositories both created locally and cloned from remote repositories. This guide assumes a basic familiarity with a command-line interface.
+
+- git init 
+- git clone git 
+- config
+
+[Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
+## Learn Git with Bitbucket Cloud
+
+Create a Git repository Copy your Git repository and add files Pull changes from your Git repository on Bitbucket Cloud Use a Git branch to merge a file
+
+[Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
