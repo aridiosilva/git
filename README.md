@@ -3,8 +3,8 @@
 ## Book Pro Git
 Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
 
-[downnload eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
-[link Interne4t Book Pro Git](https://git-scm.com/book/pt-br/v2)
+- [downnload eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
+- [link Interne4t Book Pro Git](https://git-scm.com/book/pt-br/v2)
 
 ## Setting up a repository  
 
