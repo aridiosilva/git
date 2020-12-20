@@ -78,7 +78,7 @@ Originally, a pull request was used to request that someone else review the work
 used earlier in the process to start a discussion about a possible feature. Example usage: “Go create a pull request for the new voting feature so we can see what the rest of
 the team thinks about it.” Pull requests give you a sense of the current work in progress.
 
-Labels of differents types of pull requested allowed in GituHUb are;
+Labels of differents types of pull requested allowed in GituHUb are:
 
    - **bug** - Something isn't working
    - **duplicate** -This issue or pull request already exists
@@ -88,6 +88,8 @@ Labels of differents types of pull requested allowed in GituHUb are;
    - **invalid** - This doesn't seem right
    - **question** - Further information is requested
    - **wontfix** - This will not be worked on
+
+Pull requests help you collaborate on code with other people. As pull requests are created, they’ll appear here in a searchable and filterable list. To get started, you should create a pull request.
 
 ### Issue
 
