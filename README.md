@@ -6,6 +6,12 @@ Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and B
 - [downnload eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
 - [link Interne4t Book Pro Git](https://git-scm.com/book/pt-br/v2)
 
+## How do I push to main branch GitHub?
+
+- Check your branch
+- Create and checkout to a new branch from your current commit: git checkout -b [branchname]
+- Then, push the new branch up to the remote: git push -u origin [branchname]
+
 ## Setting up a repository  
 
 This tutorial provides an overview of how to set up a repository (repo) under Git version control. This resource will walk you through initializing a Git repository for a new or existing project. Included below are workflow examples of repositories both created locally and cloned from remote repositories. This guide assumes a basic familiarity with a command-line interface.
