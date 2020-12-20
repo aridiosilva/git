@@ -119,7 +119,7 @@ Create a Git repository Copy your Git repository and add files Pull changes from
 
 [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
-## Git Commmands by Group
+## Git Commands by Group
 
 ### Setup and Config
 
