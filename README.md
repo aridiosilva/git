@@ -5,7 +5,7 @@ Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and B
 
 - [downnload eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
 - [link Interne4t Book Pro Git](https://git-scm.com/book/pt-br/v2)
-- [Basics of Getting a Git Repository)(https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- [Basics of Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
 ## EGIT User Guide for ECLIPSE IDE 2020-12
 
