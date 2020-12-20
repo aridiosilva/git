@@ -6,7 +6,17 @@ Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and B
 - [downnload eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
 - [link Interne4t Book Pro Git](https://git-scm.com/book/pt-br/v2)
 
-## How do I push to main branch GitHub?
+## EGIT User Guide for ECLIPSE IDE 2020-12
+
+- [USer Guide of Git for usewith ECLIPSE IDE]()
+
+## Push Command
+
+what is a push command?  
+
+- The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
+
+How do I push to main branch GitHub?
 
 - Check your branch
 - Create and checkout to a new branch from your current commit: git checkout -b [branchname]
