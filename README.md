@@ -92,7 +92,9 @@ Labels of differents types of pull requested allowed in GituHUb are;
 ### Issue
 
 GitHub has a feature called Issues that can be used to discuss features, track bugs, or both. Example usage: “You’re right, the login doesn’t work on an iPhone. Could you create
-an issue on GitHub documenting the steps to replicate the bug?” 
+an issue on GitHub documenting the steps to replicate the bug?”. 
+
+Issues are used to track todos, bugs, feature requests, and more. As issues are created, they’ll appear here in a searchable and filterable list. To get started, you should create an issue.
 
 ### Wiki
 
