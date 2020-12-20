@@ -78,6 +78,17 @@ Originally, a pull request was used to request that someone else review the work
 used earlier in the process to start a discussion about a possible feature. Example usage: “Go create a pull request for the new voting feature so we can see what the rest of
 the team thinks about it.” Pull requests give you a sense of the current work in progress.
 
+Labels of differents types of pull requested allowed in GituHUb are;
+
+   - **bug** - Something isn't working
+   - **duplicate** -This issue or pull request already exists
+   - **enhancement** - New feature or request
+   - **good first issue** - Good for newcomers
+   - **help wanted** - Extra attention is needed
+   - **invalid** - This doesn't seem right
+   - **question** - Further information is requested
+   - **wontfix** - This will not be worked on
+
 ### Issue
 
 GitHub has a feature called Issues that can be used to discuss features, track bugs, or both. Example usage: “You’re right, the login doesn’t work on an iPhone. Could you create
