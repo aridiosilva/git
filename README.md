@@ -73,7 +73,7 @@ Erase mistakes and craft replacement history
 
 - **$ git reset [commit]** - Undoes all commits after [commit], preserving changes locally
 - **$ git reset --hard [commit]** - Discards all history and changes back to the specified commit
-- **CAUTION! Changing history can have nasty side effects. If you need to change commits that exist on GitHub (the remote), proceed with caution. If you need help, reach out at github.community or contact support.
+- **CAUTION!** Changing history can have nasty side effects. If you need to change commits that exist on GitHub (the remote), proceed with caution. If you need help, reach out at github.community or contact support.
 
 ## Key Concepts in GitHub and Git
 
