@@ -7,7 +7,7 @@
 
 (https://git-scm.com/docs/gitglossary)
 
-## Gti Reference
+## Git Reference
 
 (https://git-scm.com/docs)
 (https://training.github.com/downloads/github-git-cheat-sheet/)
