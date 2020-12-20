@@ -1,4 +1,4 @@
-# Git -  Git Help 
+# Git and GitHub 
 
 ## Git Glossary
 
