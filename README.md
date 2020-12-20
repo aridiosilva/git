@@ -8,7 +8,7 @@ Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and B
 
 ## EGIT User Guide for ECLIPSE IDE 2020-12
 
-- [USer Guide of Git for usewith ECLIPSE IDE]()
+- [USer Guide of Git for usewith ECLIPSE IDE](https://github.com/aridiosilva/gamificacao/blob/master/Gamificacao/help/EGit%20User%20Guide%20-%20Git%20for%20ECLIPSE%20IDE%202020-12%20in%2020-DEC-2020.pdf)
 
 ## Push Command
 
