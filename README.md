@@ -76,7 +76,7 @@ done on it, but any commit can be checked out. Example usage: “Could you check
 
 Originally, a pull request was used to request that someone else review the work you completed on a branch and then merge it into master. Now, pull requests are often
 used earlier in the process to start a discussion about a possible feature. Example usage: “Go create a pull request for the new voting feature so we can see what the rest of
-the team thinks about it.” 
+the team thinks about it.” Pull requests give you a sense of the current work in progress.
 
 ### Issue
 
