@@ -23,6 +23,79 @@ Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and B
 
 - [USer Guide of Git for usewith ECLIPSE IDE](https://github.com/aridiosilva/gamificacao/blob/master/Gamificacao/help/EGit%20User%20Guide%20-%20Git%20for%20ECLIPSE%20IDE%202020-12%20in%2020-DEC-2020.pdf)
 
+## Key Concepts in GitHub and Git
+
+There are a number of key concepts that you’ll need to understand to work effectively with Git and GitHub. Here is a list of some of the most common terms with a short
+description of each and an example of how they might be used in conversation:
+
+### Commit
+
+Whenever you save your changes to one or more files to history in Git, you create a new commit. Example usage: “Let’s commit these changes and push them up to
+GitHub.”
+
+### Commit message
+
+Every time you make a commit, you need to supply a message that describes why the change was made. That commit message is invaluable when trying to understand
+later why a certain change was implemented. Example usage: “Make sure to include Susan’s comment about the new SEC guidelines in the commit message.”
+
+### Branch
+
+An independent series of commits off to one side that you can use to try out an experiment or create a new feature. Example usage: “Let’s create a branch to implement
+the new search functionality.”
+
+### Master branch (master)
+
+Whenever you create a new Git project, there is a default branch created that is called master. This is the branch that your work should end up on eventually once it’s ready
+to push to production. Example usage: “Remember never to commit directly to master.”
+
+### Feature (or topic) branch
+
+Whenever you’re building a new piece of functionality, you’ll create a branch to work on it. That’s called a feature branch. Example usage: “We’ve got way too many feature
+branches. Let’s focus on getting one or two of these finished and into production.”
+
+### Release branch
+
+If you have a manual QA process or have to support old versions of your software for your customers, you might need a release branch as a place to make any necessary fixes or updates. There is no technical difference between a feature or release branch, but the distinction is useful when talking about a project with your team. Example usage: “We’ve got to fix the security bug on all of our supported release branches.”
+
+### Merge
+
+This is a way to take completed work from one branch and incorporate it into another branch. Most commonly you’ll merge a feature branch into the master
+branch. Example usage: “Great job on the ‘my account’ feature. Could you merge it into master so we can push it to production?”
+
+### Tag
+
+A reference to a specific historic commit. Most often used to document production releases so you know exactly which versions of the code went into production and
+when. Example usage: “Let’s tag this release and push it to production.” 
+
+### Check out
+
+To go to a different version of the project’s history to see the files as of that point in time. Most commonly you’ll check out a branch to see all of the work that has been
+done on it, but any commit can be checked out. Example usage: “Could you check out the last release tag? There’s a bug in production that I need you to replicate and fix.”
+
+### Pull request
+
+Originally, a pull request was used to request that someone else review the work you completed on a branch and then merge it into master. Now, pull requests are often
+used earlier in the process to start a discussion about a possible feature. Example usage: “Go create a pull request for the new voting feature so we can see what the rest of
+the team thinks about it.” 
+
+### Issue
+
+GitHub has a feature called Issues that can be used to discuss features, track bugs, or both. Example usage: “You’re right, the login doesn’t work on an iPhone. Could you create
+an issue on GitHub documenting the steps to replicate the bug?” 
+
+### Wiki
+
+Originally developed by Ward Cunningham, wikis are a lightweight way of creating web pages with simple links between them. GitHub projects often use wikis for documentation. Example usage: “Could you add a page to the wiki to explain how to configure the project to run on multiple servers?”
+
+### Clone
+
+Often you’ll want to download a copy of a project from GitHub so you can work on it locally. The process of copying the repository to your computer is called cloning. Example usage: “Could you clone the repo, fix the bug, and then push the fix back up to GitHub later tonight?”
+
+### Fork
+
+Sometimes you don’t have the necessary permission to make changes directly to a project. Perhaps it’s an open source project written by people you don’t know or it’s a project written by another group at your company that you don’t work with much. If you want to submit changes to such a project, first you need to make a copy of the project under your user account on GitHub. That process is called forking the repository. You can then clone it, make changes, and submit them back to the original project using a pull request. Example usage: “I’d love to see how you’d rewrite the home page marketing copy. Fork the repo and submit a pull request with your proposed
+changes.”
+
 ## What is a git branch?
 
 A branch represents an independent line of development. ... The git branch command lets you create, list, rename, and delete branches. It doesn't let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
