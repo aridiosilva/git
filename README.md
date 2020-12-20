@@ -1,5 +1,8 @@
 # Git and GitHub 
 
+- Git - An open source, distributed version-control system
+- GitHub - A platform for hosting and collaborating on Git repositories
+
 ## Git Glossary
 
 (https://git-scm.com/docs/gitglossary)
@@ -7,6 +10,7 @@
 ## Gti Reference
 
 (https://git-scm.com/docs)
+(https://training.github.com/downloads/github-git-cheat-sheet/)
 
 ## List of All Commands of Git
 
@@ -30,6 +34,8 @@ description of each and an example of how they might be used in conversation:
 
 ### Commit
 
+A Git object, a snapshot of your entire repository compressed into a SHA.
+
 Whenever you save your changes to one or more files to history in Git, you create a new commit. Example usage: “Let’s commit these changes and push them up to
 GitHub.”
 
@@ -40,8 +46,22 @@ later why a certain change was implemented. Example usage: “Make sure to inclu
 
 ### Branch
 
+A Git object, a snapshot of your entire repository compressed into a SHA.
+
 An independent series of commits off to one side that you can use to try out an experiment or create a new feature. Example usage: “Let’s create a branch to implement
 the new search functionality.”
+
+### Clone
+
+A local version of a repository, including all commits and branches.
+
+### Fork
+
+A copy of a repository on GitHub owned by a different user
+
+### Head
+
+Representing your current working directory, the HEAD pointer can be moved to different branches, tags, or commits when using git checkout
 
 ### Master branch (master)
 
@@ -56,6 +76,10 @@ branches. Let’s focus on getting one or two of these finished and into product
 ### Release branch
 
 If you have a manual QA process or have to support old versions of your software for your customers, you might need a release branch as a place to make any necessary fixes or updates. There is no technical difference between a feature or release branch, but the distinction is useful when talking about a project with your team. Example usage: “We’ve got to fix the security bug on all of our supported release branches.”
+
+### Remote
+
+A common repository on GitHub that all team members use to exchange their changes.
 
 ### Merge
 
@@ -73,6 +97,8 @@ To go to a different version of the project’s history to see the files as of t
 done on it, but any commit can be checked out. Example usage: “Could you check out the last release tag? There’s a bug in production that I need you to replicate and fix.”
 
 ### Pull request
+
+A place to compare and discuss the differences introduced on a branch with reviews, comments, integrated tests, and more.
 
 Originally, a pull request was used to request that someone else review the work you completed on a branch and then merge it into master. Now, pull requests are often
 used earlier in the process to start a discussion about a possible feature. Example usage: “Go create a pull request for the new voting feature so we can see what the rest of
