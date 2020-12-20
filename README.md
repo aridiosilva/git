@@ -50,21 +50,10 @@ A Git object, a snapshot of your entire repository compressed into a SHA.  An in
 
 Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.
 
-$ git branch [branch-name]
-
-Creates a new branch
-
-$ git checkout [branch-name]
-
-Switches to the specified branch and updates the working directory
-
-$ git merge [branch]
-
-Combines the specified branch’s history into the current branch. This is usually done in pull requests, but is an important Git operation.
-
-$ git branch -d [branch-name]
-
-Deletes the specified branch
+**$ git branch [branch-name]**     - Creates a new branch
+**$ git checkout [branch-name]**   - Switches to the specified branch and updates the working directory
+**$ git merge [branch]**           - Combines the specified branch’s history into the current branch. This is usually done in pull requests, but is an important Git operation.
+**$ git branch -d [branch-name]**  - Deletes the specified branch
 
 ### Clone
 
