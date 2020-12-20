@@ -46,10 +46,25 @@ later why a certain change was implemented. Example usage: “Make sure to inclu
 
 ### Branch
 
-A Git object, a snapshot of your entire repository compressed into a SHA.
+A Git object, a snapshot of your entire repository compressed into a SHA.  An independent series of commits off to one side that you can use to try out an experiment or create a new feature. Example usage: “Let’s create a branch to implement the new search functionality.”
 
-An independent series of commits off to one side that you can use to try out an experiment or create a new feature. Example usage: “Let’s create a branch to implement
-the new search functionality.”
+Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.
+
+$ git branch [branch-name]
+
+Creates a new branch
+
+$ git checkout [branch-name]
+
+Switches to the specified branch and updates the working directory
+
+$ git merge [branch]
+
+Combines the specified branch’s history into the current branch. This is usually done in pull requests, but is an important Git operation.
+
+$ git branch -d [branch-name]
+
+Deletes the specified branch
 
 ### Clone
 
