@@ -5,7 +5,7 @@
 
 ## GitHub Markup Language
 
-- [Github Markup Language](https://github.com/github/markup)
+- [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
 
 ## Git Glossary
 
