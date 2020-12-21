@@ -19,7 +19,7 @@
 ## Book Pro Git
 Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
 
-- [downnload eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
+- [download eBook](https://github.com/progit/progit2-pt-br/releases/download/2.1.28/progit_v2.1.28.pdf)
 - [Read the Book Pro Git Edition 2 ONLINE](https://git-scm.com/book/pt-br/v2)
 - [Basics of Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 
@@ -31,7 +31,7 @@ Book 2nd Edition (2014) - The entire Pro Git book, written by Scott Chacon and B
 
 Configure user information for all local repositories
 
-- **$ git config --global user.name "[name]" ** - Sets the name you want attached to your commit transactions
+- **$ git config --global user.name "[name]"** - Sets the name you want attached to your commit transactions
 - **$ git config --global user.email "[email address]"** - Sets the email you want attached to your commit transactions
 - **$ git config --global color.ui auto** - Enables helpful colorization of command line output
 
