@@ -20,6 +20,10 @@
 
 ![Multiple topic branches](https://github.com/aridiosilva/git/blob/main/topic-branches-1.png)
 
+### Figure - History after merging dumbidea and iss91v2
+
+![Figure 29. History after merging dumbidea and iss91v2](https://github.com/aridiosilva/git/blob/main/topic-branches-2.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
