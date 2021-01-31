@@ -51,6 +51,11 @@
 
 ![Basic sequence of this managed-team workflow](https://github.com/aridiosilva/git/blob/main/managed-team-flow.png)
 
+
+### Figure - Managing a complex series of parallel contributed topic branches
+
+![Managing a complex series of parallel contributed topic branches](https://github.com/aridiosilva/git/blob/main/large-merges-1.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
