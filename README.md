@@ -41,6 +41,12 @@
 
 ![Remote-tracking branch for teamone/master](https://github.com/aridiosilva/git/blob/main/remote-branches-5.png)
 
+
+### Figure - General sequence of events for a simple multiple-developer Git workflow
+
+![General sequence of events for a simple multiple-developer Git workflow](https://github.com/aridiosilva/git/blob/main/small-team-flow.png)
+
+
 ### Figure - Basic Sequence of Managed-team workflow
 
 ![Basic sequence of this managed-team workflow](https://github.com/aridiosilva/git/blob/main/managed-team-flow.png)
