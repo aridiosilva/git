@@ -3,6 +3,8 @@
 - Git - An open source, distributed version-control system
 - GitHub - A platform for hosting and collaborating on Git repositories
 
+![the phases of VSC process](https://github.com/aridiosilva/git/blob/main/Tracked%20and%20Untracked%20files%20in%20GIT.jpg)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
