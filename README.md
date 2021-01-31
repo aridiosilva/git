@@ -56,6 +56,10 @@
 
 ![Managing a complex series of parallel contributed topic branches](https://github.com/aridiosilva/git/blob/main/large-merges-1.png)
 
+### Figure - Merging contributed topic branches into long-term integration branches
+
+![Merging contributed topic branches into long-term integration branches](https://github.com/aridiosilva/git/blob/main/large-merges-2.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
