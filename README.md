@@ -24,17 +24,22 @@
 
 ![History after merging dumbidea and iss91v2](https://github.com/aridiosilva/git/blob/main/topic-branches-2.png)
 
-### Figure 30 - Server (Remote) and local repositories after cloning
+### Figure - Server (Remote) and local repositories after cloning
 
 ![Server and local repositories after cloning](https://github.com/aridiosilva/git/blob/main/remote-branches-1.png)
 
 ### Figure - Git fetch updates your remote-tracking branches
 
-![Figure 32. git fetch updates your remote-tracking branches](https://github.com/aridiosilva/git/blob/main/remote-branches-3.png)
+![git fetch updates your remote-tracking branches](https://github.com/aridiosilva/git/blob/main/remote-branches-3.png)
 
 ### Figure - Adding another server as a remote
 
-![Figure 33. Adding another server as a remote](https://github.com/aridiosilva/git/blob/main/remote-branches-4.png)
+![Adding another server as a remote](https://github.com/aridiosilva/git/blob/main/remote-branches-4.png)
+
+
+### Figure - Remote-tracking branch for teamone/master
+
+![Remote-tracking branch for teamone/master](https://github.com/aridiosilva/git/blob/main/remote-branches-5.png)
 
 ## GitHub Markup Language
 
