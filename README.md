@@ -22,7 +22,11 @@
 
 ### Figure - History after merging dumbidea and iss91v2
 
-![Figure 29. History after merging dumbidea and iss91v2](https://github.com/aridiosilva/git/blob/main/topic-branches-2.png)
+![History after merging dumbidea and iss91v2](https://github.com/aridiosilva/git/blob/main/topic-branches-2.png)
+
+### Figure 30 - Server (Remote) and local repositories after cloning
+
+![Server and local repositories after cloning](https://github.com/aridiosilva/git/blob/main/remote-branches-1.png)
 
 ## GitHub Markup Language
 
