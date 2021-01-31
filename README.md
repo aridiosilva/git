@@ -28,6 +28,10 @@
 
 ![Server and local repositories after cloning](https://github.com/aridiosilva/git/blob/main/remote-branches-1.png)
 
+### Figure - Git fetch updates your remote-tracking branches
+
+![Figure 32. git fetch updates your remote-tracking branches](https://github.com/aridiosilva/git/blob/main/remote-branches-3.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
