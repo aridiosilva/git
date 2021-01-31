@@ -60,7 +60,7 @@
 
 ![Merging contributed topic branches into long-term integration branches](https://github.com/aridiosilva/git/blob/main/large-merges-2.png)
 
-### Git Reset Workflow
+### Figure - Git Reset Workflow
 
 ![Git Reset Workflow](https://github.com/aridiosilva/git/blob/main/reset-workflow.png)
 
