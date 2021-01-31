@@ -8,6 +8,14 @@
 
 ![the phases of VSC process](https://github.com/aridiosilva/git/blob/main/Tracked%20and%20Untracked%20files%20in%20GIT.jpg)
 
+### Figure - A linear view of progressive-stability branching
+
+![A linear view of progressive-stability branching](https://github.com/aridiosilva/git/blob/main/lr-branches-1.png)
+
+### Figure - A “silo” view of progressive-stability branching
+
+![A “silo” view of progressive-stability branching](https://github.com/aridiosilva/git/blob/main/lr-branches-2.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
