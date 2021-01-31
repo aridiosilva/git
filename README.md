@@ -16,6 +16,10 @@
 
 ![A “silo” view of progressive-stability branching](https://github.com/aridiosilva/git/blob/main/lr-branches-2.png)
 
+### Figure -  Multiple topic branches
+
+![Multiple topic branches](https://github.com/aridiosilva/git/blob/main/topic-branches-1.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
