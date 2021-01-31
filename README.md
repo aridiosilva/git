@@ -32,6 +32,10 @@
 
 ![Figure 32. git fetch updates your remote-tracking branches](https://github.com/aridiosilva/git/blob/main/remote-branches-3.png)
 
+### Figure - Adding another server as a remote
+
+![Figure 33. Adding another server as a remote](https://github.com/aridiosilva/git/blob/main/remote-branches-4.png)
+
 ## GitHub Markup Language
 
 - [Github Markup Language](https://guides.github.com/features/mastering-markdown/#:~:text=Markdown%20is%20a%20lightweight%20and,writing%20on%20the%20GitHub%20platform.)
